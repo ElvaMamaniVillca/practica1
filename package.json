@@ -1,0 +1,19 @@
+{
+  "name": "practica",
+  "version": "1.0.0",
+  "description": "trabajo de elva",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ElvaMamaniVillca/practica1.git"
+  },
+  "author": "elva",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ElvaMamaniVillca/practica1/issues"
+  },
+  "homepage": "https://github.com/ElvaMamaniVillca/practica1#readme"
+}
